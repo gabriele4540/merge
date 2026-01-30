@@ -1,1 +1,4 @@
-# merge
+That
+is 
+good 
+text
